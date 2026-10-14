@@ -1,0 +1,314 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Ordenar para Recoger o Entregar"
+  },
+  "footer": {
+    "tagline": "Hamburguesas smash de Austin y BBQ ahumado lentamente, preparado fresco",
+    "rights": "Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "BBQ de Austin, Texas y Hamburguesas Smash",
+      "title": "Aplastadas, Apiladas y Ahumadas Lentamente",
+      "subtitle": "Hamburguesas aplastadas a mano y pechuga ahumada durante doce horas, preparada fresca en East Austin y lista para recoger o entregar en minutos.",
+      "cta": "Ordenar para Recoger o Entregar",
+      "secondaryCta": "Ver Menú Completo"
+    },
+    "featured": {
+      "eyebrow": "Recién Salido de la Parrilla",
+      "title": "El Menú en Vivo",
+      "subtitle": "Hamburguesas, platos de BBQ, acompañamientos, batidos y bebidas preparados al momento todos los días."
+    },
+    "perks": {
+      "eyebrow": "Por Qué Smoke & Stack",
+      "title": "Sabor Auténtico de Texas, Sin Esperas",
+      "subtitle": "Construimos nuestra cocina para una cosa: poner comida caliente y honesta en tus manos rápidamente.",
+      "items": {
+        "0": {
+          "title": "Aplastadas Frescas al Momento",
+          "description": "Cada medallón se aplasta en la plancha en el momento que ordenas, nunca preformado o congelado."
+        },
+        "1": {
+          "title": "Ahumado Lentamente Todos los Días",
+          "description": "Pechuga, costillas y salchicha van al ahumador antes del amanecer y se ahúman hasta doce horas."
+        },
+        "2": {
+          "title": "Ventana de Recogida de 15 Minutos",
+          "description": "Ordena en línea y pasa por la ventana, sin filas, sin esperar en el calor de Texas."
+        },
+        "3": {
+          "title": "Entrega en Todo Austin",
+          "description": "Desde South Congress hasta East Austin, llevamos comida caliente a tu puerta mientras aún está humeando."
+        },
+        "4": {
+          "title": "Acompañamientos y Batidos Hechos desde Cero",
+          "description": "Papas cortadas a mano, ensalada de repollo cremosa y batidos malteados espesos hechos frescos en casa cada mañana."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Lo Que Dice Austin",
+      "title": "Amado por Locales y Visitantes por Igual",
+      "subtitle": "Reseñas reales de fanáticos reales de hamburguesas smash y pechuga.",
+      "items": {
+        "0": {
+          "quote": "La pechuga es increíble y la hamburguesa smash podría ser la mejor de Austin. El recogida estuvo lista exactamente cuando dijeron.",
+          "name": "Caleb Monroe",
+          "role": "Habitual de South Congress"
+        },
+        "1": {
+          "quote": "Ordené entrega por impulso y ahora es un hábito semanal. Los batidos por sí solos valen la pena.",
+          "name": "Priya Anand",
+          "role": "Residente de East Austin"
+        },
+        "2": {
+          "quote": "Bordes ahumados y crujientes en el medallón, queso derretido, pan tostado. Esto es lo que debe saber una hamburguesa smash.",
+          "name": "Derek Foss",
+          "role": "Bloguera de Comida"
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Ya tienes hambre?",
+      "subtitle": "Ordena en línea ahora para recoger rápidamente o entrega a domicilio en cualquier parte de Austin.",
+      "button": "Comienza tu Orden"
+    }
+  },
+  "shop": {
+    "hero": {
+      "eyebrow": "BBQ de Austin, Texas",
+      "title": "Ahumado Lentamente. Apilado Alto.",
+      "subtitle": "Hamburguesas aplastadas a mano y BBQ de Texas ahumado lentamente, listas para recoger o entregadas calientes a tu puerta."
+    },
+    "products": {
+      "0": {
+        "name": "La Original Aplastada",
+        "price": "$9.50",
+        "description": "Dos hamburguesas de res aplastadas en plancha con queso americano, encurtidos y salsa stack en pan tostado.",
+        "badge": "Más Vendido",
+        "details": {
+          "0": "100% res, aplastada fresca",
+          "1": "Queso americano x2",
+          "2": "Salsa stack de la casa",
+          "3": "Pan de papa tostado"
+        }
+      },
+      "1": {
+        "name": "Hamburguesa Stack de Pecho",
+        "price": "$12.00",
+        "description": "Hamburguesa aplastada cubierta con pecho ahumado picado, cebollas crujientes y gouda ahumado.",
+        "badge": "",
+        "details": {
+          "0": "Pecho ahumado 12 horas",
+          "1": "Gouda ahumado",
+          "2": "Cebollas fritas crujientes",
+          "3": "Hamburguesa doble aplastada"
+        }
+      },
+      "2": {
+        "name": "Plato de Pecho Rebanado",
+        "price": "$16.50",
+        "description": "Media libra de nuestro pecho ahumado con roble blanco de firma con dos acompañamientos clásicos y pan tostado de Texas.",
+        "badge": "Nuevo",
+        "details": {
+          "0": "Ahumado con roble blanco 14 horas",
+          "1": "Elige dos acompañamientos",
+          "2": "Pan tostado de Texas incluido",
+          "3": "Salsa BBQ de la casa"
+        }
+      },
+      "3": {
+        "name": "Plato de Costillas St. Louis",
+        "price": "$15.00",
+        "description": "Media parrilla de costillas ahumadas tiernas glaseadas con nuestra salsa BBQ de bourbon, servidas con dos acompañamientos.",
+        "badge": "",
+        "details": {
+          "0": "Media parrilla de costillas de cerdo",
+          "1": "Glaseado BBQ de bourbon",
+          "2": "Elige dos acompañamientos",
+          "3": "Tierno que se cae del hueso"
+        }
+      },
+      "4": {
+        "name": "Mac & Queso Cargado",
+        "price": "$6.00",
+        "description": "Mac con queso ahumado cremoso cubierto con puntas de pecho asado y cebollas crujientes.",
+        "badge": "",
+        "details": {
+          "0": "Salsa de queso ahumado",
+          "1": "Puntas de pecho asado",
+          "2": "Cobertura de cebolla crujiente",
+          "3": "Horneado al pedido"
+        }
+      },
+      "5": {
+        "name": "Aros de Cebolla con Suero de Leche",
+        "price": "$5.50",
+        "description": "Aros de cebolla gruesos rebozados en suero de leche y fritos hasta dorar, servidos con rancho chipotle.",
+        "badge": "",
+        "details": {
+          "0": "Cebollas rebozadas a mano",
+          "1": "Rebozado de suero de leche",
+          "2": "Salsa rancho chipotle",
+          "3": "Frito al pedido"
+        }
+      },
+      "6": {
+        "name": "Batido de Nuez Pecana de Texas",
+        "price": "$6.50",
+        "description": "Batido de vainilla hecho a mano cargado de nueces pecanas de Texas tostadas y remolino de caramelo.",
+        "badge": "Más vendido",
+        "details": {
+          "0": "Hecho a mano diariamente",
+          "1": "Nueces pecanas tostadas",
+          "2": "Remolino de caramelo",
+          "3": "Cubierto con crema batida"
+        }
+      },
+      "7": {
+        "name": "Té Dulce",
+        "price": "$3.00",
+        "description": "Té dulce clásico estilo Texas, preparado fresco diariamente y servido sobre hielo.",
+        "badge": "Más vendido",
+        "details": {
+          "0": "Preparado fresco diariamente",
+          "1": "Servido bien frío",
+          "2": "Dulzura clásica del Sur",
+          "3": "Rellenable en el local"
+        }
+      }
+    },
+    "viewLabel": "Agregar al pedido"
+  },
+  "product": {
+    "addToCart": "Agregar al carrito",
+    "added": "Agregado a tu pedido",
+    "viewCart": "Ver carrito",
+    "backToShop": "Volver al menú",
+    "detailsTitle": "Detalles del plato",
+    "shippingNote": "Listo para recoger en 20-30 min, o recíbelo entregado caliente directamente desde nuestro ahumador de Austin a tu puerta.",
+    "notFound": "No pudimos encontrar ese artículo en el menú. Es posible que se haya agotado hoy."
+  },
+  "cart": {
+    "hero": {
+      "eyebrow": "Tu pedido",
+      "title": "Los Ingredientes de Tu Carrito",
+      "subtitle": "Revisa tus smash burgers y platos BBQ antes de que encendamos la parrilla."
+    },
+    "empty": "Tu carrito está más vacío que un ahumador un domingo por la mañana. Vamos a llenarlo.",
+    "emptyCta": "Ver el Menú",
+    "quantity": "Cantidad",
+    "remove": "Eliminar",
+    "subtotal": "Subtotal",
+    "checkout": "Recoger o Entregar",
+    "checkoutNote": "Impuestos y tarifas de entrega calculados al finalizar. Pedidos para recoger listos en 20-25 minutos."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Nuestra Historia",
+      "title": "Nacido en un Estacionamiento, Construido con Fuego",
+      "subtitle": "Smoke & Stack comenzó con un ahumador, una plancha y la convicción de que Austin merecía mejores burgers y mejor brisket en el mismo bocado."
+    },
+    "story": {
+      "title": "De Food Trailer a Institución de Austin",
+      "paragraphs": {
+        "0": "Smoke & Stack encendió su primer ahumador detrás de una gasolinera en South Congress en 2016. El pitmaster Dale Reyes estaba ahumando brisket a las 4am y volteando smash burgers al mediodía, y la noticia se corrió rápido — la fila rodeaba la cuadra antes de que tuviéramos un letrero.",
+        "1": "Nunca quisimos elegir entre barbecue de Texas y burgers americanos. Pensamos que si amas la comida lo suficiente, no tienes que elegir. Así que armamos un menú que tiene brisket ahumado con post oak junto a una doble smash patty con bordes crujientes de plancha, porque Austin come grande y Austin come de todo.",
+        "2": "Hoy operamos tres cocinas en la ciudad, pero el proceso no ha cambiado: el brisket sigue entrando a la medianoche, las patties se siguen aplastando al momento, y cada orden se empaca como si fuera para tu propia mesa. Ordena en línea para recoger o entregar y descubre por qué la fila comenzó en primer lugar."
+      }
+    },
+    "values": {
+      "eyebrow": "En Qué Creemos",
+      "title": "El Estándar Smoke & Stack",
+      "subtitle": "Cada plato que enviamos lleva los mismos principios innegociables.",
+      "items": {
+        "0": {
+          "title": "Lento y Bajo, Sin Atajos",
+          "description": "El brisket se ahúma 14 horas en post oak, sin excepciones, sin asistencia de gas."
+        },
+        "1": {
+          "title": "Aplastado al Momento",
+          "description": "Las patties tocan la plancha solo después de que ordenes, así cada burger sale caliente y crujiente en los bordes."
+        },
+        "2": {
+          "title": "Local Primero",
+          "description": "Compramos carne, panes y productos de proveedores del Centro de Texas siempre que podemos."
+        },
+        "3": {
+          "title": "Porciones Honestas",
+          "description": "Sin platos pequeños disfrazados con guarniciones — obtienes porciones de verdadero tamaño de Texas."
+        },
+        "4": {
+          "title": "Rápido Sin Fingir",
+          "description": "Las órdenes en línea llegan rápido, pero nada en la cocina se apresura para lograrlo."
+        },
+        "5": {
+          "title": "Tratar a los Regulares Como Familia",
+          "description": "Recordamos tu orden, tu mesa y el nombre de tu hijo en la tercera visita."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "2016",
+        "label": "Año de Fundación"
+      },
+      "1": {
+        "value": "3",
+        "label": "Ubicaciones en Austin"
+      },
+      "2": {
+        "value": "1.2M+",
+        "label": "Burgers Aplastadas"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Calificación Promedio de Clientes"
+      }
+    },
+    "cta": {
+      "title": "Prueba la Diferencia Esta Noche",
+      "subtitle": "Ordena con anticipación para recoger o recibe entregado caliente, directo de nuestro ahumador y plancha a tu puerta.",
+      "button": "Ordenar Ahora"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Ponte en Contacto",
+      "title": "¿Preguntas? Tenemos Respuestas.",
+      "subtitle": "Ya sea un pedido de catering, una recogida para un grupo grande o simplemente charla de BBQ, nuestro equipo de Austin está listo para ayudarte."
+    },
+    "form": {
+      "nameLabel": "Tu Nombre",
+      "emailLabel": "Correo Electrónico",
+      "messageLabel": "Tu Mensaje",
+      "submitLabel": "Enviar Mensaje",
+      "successMessage": "¡Gracias por comunicarte! Nuestro equipo te responderá dentro de un día hábil.",
+      "details": {
+        "0": {
+          "label": "Teléfono",
+          "value": "(512) 555-7827"
+        },
+        "1": {
+          "label": "Correo",
+          "value": "hello@smokeandstack.com"
+        },
+        "2": {
+          "label": "Dirección",
+          "value": "1420 S Lamar Blvd, Austin, TX 78704"
+        },
+        "3": {
+          "label": "Horario",
+          "value": "Lun–Dom: 11am – 9pm"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "cart": "Cart",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Order Pickup or Delivery"
+  },
+  "footer": {
+    "tagline": "Austin smash burgers & slow-smoked BBQ, fired up fresh",
+    "rights": "All rights reserved.",
+    "columns": {},
+    "links": {}
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Austin, Texas BBQ & Smash Burgers",
+      "title": "Smashed, Stacked, and Smoked Low & Slow",
+      "subtitle": "Hand-smashed burgers and twelve-hour smoked brisket, fired up fresh in East Austin and ready for pickup or delivery in minutes.",
+      "cta": "Order Pickup or Delivery",
+      "secondaryCta": "View Full Menu"
+    },
+    "featured": {
+      "eyebrow": "Fresh Off The Grill",
+      "title": "The Live Menu",
+      "subtitle": "Burgers, BBQ plates, sides, shakes, and drinks made to order every single day."
+    },
+    "perks": {
+      "eyebrow": "Why Smoke & Stack",
+      "title": "Real Texas Flavor, No Waiting Around",
+      "subtitle": "We built our kitchen for one thing: getting hot, honest food into your hands fast.",
+      "items": {
+        "0": {
+          "title": "Smashed Fresh To Order",
+          "description": "Every patty is smashed on the flat-top the moment you order, never pre-formed or frozen."
+        },
+        "1": {
+          "title": "Low & Slow Smoked Daily",
+          "description": "Brisket, ribs, and sausage go on the pit before sunrise and smoke for up to twelve hours."
+        },
+        "2": {
+          "title": "15-Minute Pickup Window",
+          "description": "Order online and swing by the window, no lines, no waiting around in the Texas heat."
+        },
+        "3": {
+          "title": "Delivery Across Austin",
+          "description": "From South Congress to East Austin, we get hot food to your door while it's still smoking."
+        },
+        "4": {
+          "title": "Scratch-Made Sides & Shakes",
+          "description": "Hand-cut fries, creamy slaw, and thick malted shakes made fresh in-house every morning."
+        }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "What Austin Says",
+      "title": "Loved By Locals And Visitors Alike",
+      "subtitle": "Real reviews from real smash burger and brisket fanatics.",
+      "items": {
+        "0": {
+          "quote": "The brisket is unreal and the smash burger might be the best in Austin. Pickup was ready exactly when they said.",
+          "name": "Caleb Monroe",
+          "role": "South Congress Regular"
+        },
+        "1": {
+          "quote": "Ordered delivery on a whim and now it's a weekly habit. The shakes alone are worth it.",
+          "name": "Priya Anand",
+          "role": "East Austin Resident"
+        },
+        "2": {
+          "quote": "Smoky, crispy edges on the patty, melty cheese, toasted bun. This is what a smash burger should taste like.",
+          "name": "Derek Foss",
+          "role": "Food Blogger"
+        }
+      }
+    },
+    "cta": {
+      "title": "Hungry Yet?",
+      "subtitle": "Order online now for fast pickup or delivery anywhere in Austin.",
+      "button": "Start Your Order"
+    }
+  },
+  "shop": {
+    "hero": {
+      "eyebrow": "Austin, Texas BBQ",
+      "title": "Smoked Low. Stacked High.",
+      "subtitle": "Hand-smashed burgers and slow-smoked Texas BBQ, ready for pickup or delivered hot to your door."
+    },
+    "products": {
+      "0": {
+        "name": "The Original Smash",
+        "price": "$9.50",
+        "description": "Two griddle-smashed beef patties with American cheese, pickles, and stack sauce on a toasted bun.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "100% beef, smashed fresh",
+          "1": "American cheese x2",
+          "2": "House stack sauce",
+          "3": "Toasted potato bun"
+        }
+      },
+      "1": {
+        "name": "Brisket Stack Burger",
+        "price": "$12.00",
+        "description": "Smash patty topped with chopped smoked brisket, crispy onions, and smoked gouda.",
+        "badge": "",
+        "details": {
+          "0": "12-hour smoked brisket",
+          "1": "Smoked gouda",
+          "2": "Crispy fried onions",
+          "3": "Double smash patty"
+        }
+      },
+      "2": {
+        "name": "Sliced Brisket Plate",
+        "price": "$16.50",
+        "description": "Half pound of our signature post oak smoked brisket with two classic sides and Texas toast.",
+        "badge": "New",
+        "details": {
+          "0": "Post oak smoked 14 hours",
+          "1": "Choice of two sides",
+          "2": "Texas toast included",
+          "3": "House BBQ sauce"
+        }
+      },
+      "3": {
+        "name": "St. Louis Rib Plate",
+        "price": "$15.00",
+        "description": "Half rack of tender smoked ribs glazed with our bourbon BBQ sauce, served with two sides.",
+        "badge": "",
+        "details": {
+          "0": "Half rack pork ribs",
+          "1": "Bourbon BBQ glaze",
+          "2": "Choice of two sides",
+          "3": "Fall-off-the-bone tender"
+        }
+      },
+      "4": {
+        "name": "Loaded Mac & Cheese",
+        "price": "$6.00",
+        "description": "Creamy smoked cheddar mac topped with brisket burnt ends and crispy onions.",
+        "badge": "",
+        "details": {
+          "0": "Smoked cheddar sauce",
+          "1": "Brisket burnt ends",
+          "2": "Crispy onion topping",
+          "3": "Baked to order"
+        }
+      },
+      "5": {
+        "name": "Buttermilk Onion Rings",
+        "price": "$5.50",
+        "description": "Thick-cut onion rings battered in buttermilk and fried golden, served with chipotle ranch.",
+        "badge": "",
+        "details": {
+          "0": "Hand-battered onions",
+          "1": "Buttermilk coating",
+          "2": "Chipotle ranch dip",
+          "3": "Fried to order"
+        }
+      },
+      "6": {
+        "name": "Texas Pecan Shake",
+        "price": "$6.50",
+        "description": "Hand-spun vanilla shake loaded with roasted Texas pecans and caramel swirl.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "Hand-spun daily",
+          "1": "Roasted pecans",
+          "2": "Caramel swirl",
+          "3": "Topped with whipped cream"
+        }
+      },
+      "7": {
+        "name": "Sweet Tea",
+        "price": "$3.00",
+        "description": "Classic Texas-style sweet tea, brewed fresh daily and served over ice.",
+        "badge": "Bestseller",
+        "details": {
+          "0": "Brewed fresh daily",
+          "1": "Served ice cold",
+          "2": "Classic Southern sweetness",
+          "3": "Refillable in-house"
+        }
+      }
+    },
+    "viewLabel": "Add to order"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "added": "Added to your order",
+    "viewCart": "View Cart",
+    "backToShop": "Back to Menu",
+    "detailsTitle": "Plate Details",
+    "shippingNote": "Pickup ready in 20-30 min, or get it delivered hot straight from our Austin smoker to your door.",
+    "notFound": "We couldn't find that item on the menu. It may have sold out for today."
+  },
+  "cart": {
+    "hero": {
+      "eyebrow": "Your Order",
+      "title": "Your Cart's Fixin's",
+      "subtitle": "Check your smash burgers and BBQ plates before we fire up the grill."
+    },
+    "empty": "Your cart's emptier than a Sunday morning smoker. Let's load it up.",
+    "emptyCta": "Browse the Menu",
+    "quantity": "Qty",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "checkout": "Order Pickup or Delivery",
+    "checkoutNote": "Taxes and delivery fees calculated at checkout. Pickup orders ready in 20-25 minutes."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Our Story",
+      "title": "Born in a Parking Lot, Built on Fire",
+      "subtitle": "Smoke & Stack started with one smoker, one griddle, and a stubborn belief that Austin deserved better burgers and better brisket in the same bite."
+    },
+    "story": {
+      "title": "From Food Trailer to Austin Institution",
+      "paragraphs": {
+        "0": "Smoke & Stack fired up its first smoker behind a gas station on South Congress in 2016. Pitmaster Dale Reyes was smoking brisket at 4am and flipping smash burgers by lunch, and word got around fast — the line wrapped the block before we even had a sign.",
+        "1": "We never set out to pick a lane between Texas barbecue and all-American burgers. We figured if you love food enough, you don't have to choose. So we built a menu that runs post oak smoked brisket right alongside a double smash patty with griddle-crisped edges, because Austin eats big and Austin eats both.",
+        "2": "Today we run three kitchens across the city, but the process hasn't changed: brisket still goes on at midnight, patties still get smashed to order, and every ticket still gets packed like it's going to your own kitchen table. Order online for pickup or delivery and taste why the line started in the first place."
+      }
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "The Smoke & Stack Standard",
+      "subtitle": "Every plate we send out carries the same non-negotiables.",
+      "items": {
+        "0": {
+          "title": "Low and Slow, No Shortcuts",
+          "description": "Brisket gets 14 hours on post oak, no exceptions, no gas assist."
+        },
+        "1": {
+          "title": "Smashed to Order",
+          "description": "Patties hit the griddle only after you order, so every burger comes out hot and crackling at the edges."
+        },
+        "2": {
+          "title": "Local First",
+          "description": "We buy beef, buns, and produce from Central Texas suppliers whenever we can."
+        },
+        "3": {
+          "title": "Honest Portions",
+          "description": "No tiny plates dressed up with garnish — you get real Texas-sized servings."
+        },
+        "4": {
+          "title": "Fast Without Faking It",
+          "description": "Online ordering gets your food to you quick, but nothing in the kitchen is rushed to get there."
+        },
+        "5": {
+          "title": "Treat Regulars Like Family",
+          "description": "We remember your order, your table, and your kid's name by the third visit."
+        }
+      }
+    },
+    "stats": {
+      "0": {
+        "value": "2016",
+        "label": "Year Founded"
+      },
+      "1": {
+        "value": "3",
+        "label": "Austin Locations"
+      },
+      "2": {
+        "value": "1.2M+",
+        "label": "Burgers Smashed"
+      },
+      "3": {
+        "value": "4.9/5",
+        "label": "Average Customer Rating"
+      }
+    },
+    "cta": {
+      "title": "Taste the Difference Tonight",
+      "subtitle": "Order ahead for pickup or get it delivered hot, straight from our smoker and griddle to your door.",
+      "button": "Order Now"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get In Touch",
+      "title": "Questions? We've Got Answers.",
+      "subtitle": "Whether it's a catering order, a big group pickup, or just BBQ talk, our Austin crew is ready to help."
+    },
+    "form": {
+      "nameLabel": "Your Name",
+      "emailLabel": "Email Address",
+      "messageLabel": "Your Message",
+      "submitLabel": "Send Message",
+      "successMessage": "Thanks for reaching out! Our team will fire back a reply within one business day.",
+      "details": {
+        "0": {
+          "label": "Phone",
+          "value": "(512) 555-7827"
+        },
+        "1": {
+          "label": "Email",
+          "value": "hello@smokeandstack.com"
+        },
+        "2": {
+          "label": "Address",
+          "value": "1420 S Lamar Blvd, Austin, TX 78704"
+        },
+        "3": {
+          "label": "Hours",
+          "value": "Mon–Sun: 11am – 9pm"
+        }
+      }
+    }
+  }
+}

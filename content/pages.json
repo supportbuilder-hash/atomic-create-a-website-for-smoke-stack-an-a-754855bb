@@ -1,0 +1,46 @@
+{
+  "home": {
+    "variant": "b",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8faecbe8a0144ec38af17c7eb202a8e0.jpg"
+    }
+  },
+  "shop": {
+    "variant": "c",
+    "images": {
+      "products.0": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8faecbe8a0144ec38af17c7eb202a8e0.jpg",
+      "products.1": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/5a17a6612e9447ebafd4ac212e138a02.jpg",
+      "products.2": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/0a8d6e3dcbc24a1fa893e312ed533246.jpg",
+      "products.3": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d447fc15d8a74bb5b3e6836ac2c34b71.jpg",
+      "products.4": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/455586ea84c24dcfb18909c080c2ac0b.jpg",
+      "products.5": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/945aeadbd950427b95be3f70f6b490e1.jpg",
+      "products.6": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/85f42ae992894b9bbb04c926680c7d7e.jpg",
+      "products.7": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/d49392d5b73f44d380a81afa5b4153c0.jpg"
+    },
+    "slugs": [
+      "the-original-smash",
+      "brisket-stack-burger",
+      "sliced-brisket-plate",
+      "st-louis-rib-plate",
+      "loaded-mac-cheese",
+      "buttermilk-onion-rings",
+      "texas-pecan-shake",
+      "sweet-tea"
+    ]
+  },
+  "product": {
+    "variant": "a"
+  },
+  "cart": {
+    "variant": "a"
+  },
+  "about": {
+    "variant": "b",
+    "images": {
+      "hero": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/8faecbe8a0144ec38af17c7eb202a8e0.jpg"
+    }
+  },
+  "contact": {
+    "variant": "c"
+  }
+}

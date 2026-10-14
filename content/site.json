@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "name": "Smoke & Stack",
+    "tagline": "Austin smash burgers & slow-smoked BBQ, fired up fresh",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "shop",
+      "href": "/shop"
+    },
+    {
+      "key": "cart",
+      "href": "/cart"
+    },
+    {
+      "key": "about",
+      "href": "/about"
+    },
+    {
+      "key": "contact",
+      "href": "/contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/shop"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 6
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
